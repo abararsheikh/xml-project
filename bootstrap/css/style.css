@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+body{
+    background-color: hsla(71, 44%, 89%, 0.68);
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}
+#banner
+{
+    width:100%;
+    height:400px;
+}
+#googleMap
+{
+    width:100%;
+}
+#googleTransit
+{
+    font-size: 20px;
+    text-align: center;
+
+}
+.slider
+{
+   /* background-image: url("../../images/promo_rounded1.jpg");*/
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.resize
+{
+    position: relative;
+    bottom: 150px;
+    right:-15px;
+}
+#twitterPhoto
+{
+    height: 250px;
+}
+#headerH
+{
+   overflow-y: scroll;
+    height: 600px;
+}
+#twitterPic
+{
+    width:20%;
+    height:20%;
+}
+#footer
+{
+
+    background-color: #323232;
+    margin: 0;
+    text-align: center;
+    color: #9999CC;
+
+    padding: 20px 0;
+}
